@@ -106,7 +106,7 @@ p {
 
 .header {
     position: relative;
-    background-image: url("/img/terre-surface.jpg");
+    background-image: url("img/terre-surface.jpg");
 
     background-size: cover;
     background-repeat: no-repeat;
